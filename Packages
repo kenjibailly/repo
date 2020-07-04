@@ -1,0 +1,14 @@
+Package: com.github.kenjibailly.babyyoda
+Name: Baby Yoda
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a widget made for Xen HTML. 
+Maintainer: Xyroxis <kenjibailly@gmail.com>
+Author: Xyroxis
+Section: Widgets
+Depends: Xen HTML
+Filename: debs/com.github.kenjibailly.babyyoda_iphoneos-arm_1.0.deb
+Size: 3474
+MD5sum: 611c65dff4d2dec9b4d22b6709a6ce7d
+SHA1: e20e1fe10dfa00d0f68d7dfc097448e094998802
+SHA256: 2c0463d68779117fcc35041702299b3d2876cef783b69f54a641f380883427df

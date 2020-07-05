@@ -1,8 +1,8 @@
-Origin: Xyroxis
-Label: Xyroxis
+Origin: Kenji Bailly's Repo
+Label: Kenji Bailly's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Xyroxis
+Description: Kenji Bailly's Repo

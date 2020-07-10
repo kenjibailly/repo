@@ -26,6 +26,16 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 	Basic Setup
 ==================================================================*/
 
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular.woff2') format('woff2'),
+        url('Oswald-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 body {
     background-color: #2B2C30;
 	font-family: 'Ubuntu', 'Arial', sans-serif;

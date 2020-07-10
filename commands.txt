@@ -5,3 +5,6 @@ dpkg -b [name of tweak folder]
 
 
 apt-ftparchive release . > Release
+
+apt-ftparchive --arch amd64 packages Files > Packages
+gzip -k Packages

@@ -4,12 +4,11 @@ Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/com.github.kenjibailly.babyyoda_iphoneos-arm_1.0.deb
-Size: 3496
-MD5sum: 7b7a8f8b33dbeb3943d429fefdfb1501
-SHA1: 0e9d96c7d1d84a3b83d9ea3ae525a3966552d01a
-SHA256: 7db542b57f0d7729f210275accc855ffdbaac4e1adab0aa7da055839bda7a22a
-SHA512: 50610aab59e2bad8fb015c0605ddee3ce6a672ab267722199118b84e0dba188ea6548223436014232f7ae5d83b5e5e7c5a1f829cf676c7bcf9acd5b4027d0e56
-Homepage: https://kenjibailly.github.io/repo
+Size: 3478
+MD5sum: deaf4bff247ea6a13f9829bc3426ec6f
+SHA1: 2710fe5ba92b526852251d9d1cbf13e74be24700
+SHA256: bd42dd30feaf5084184b055497f12d71923e83a6a695b83806ab54efaa726ec0
+SHA512: f46876623e584e7217b725905b9bf03a9446f144cf01e1b4fa7fe70610fb697d902c0788240c594fa936b8d62f8e2c542309704ab6c296f4b447f9df04cacc64
 Description: This is a widget made for Xen HTML.
 Name: Baby Yoda
 Author: Kenji Bailly <kenjibailly@gmail.com>

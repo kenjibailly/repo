@@ -21,14 +21,14 @@ jQuery(function ($) { "use strict";
 	/*	Nice Scroll - Custom Scrollbar
 	/* ========================================================================= */
 
-	var nice = $("html").niceScroll({
-		cursorborderradius: 0,
-		cursorwidth: "8px",
-		cursorfixedheight: 150,
-		cursorcolor: "#6f00ff",
-		zindex: 9999,
-		cursorborder: 0,
-	});
+	// var nice = $("html").niceScroll({
+	// 	cursorborderradius: 0,
+	// 	cursorwidth: "8px",
+	// 	cursorfixedheight: 150,
+	// 	cursorcolor: "#6f00ff",
+	// 	zindex: 9999,
+	// 	cursorborder: 0,
+	// });
 
 
 	/* ========================================================================= */

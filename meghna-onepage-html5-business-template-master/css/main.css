@@ -41,6 +41,7 @@ body {
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
+    overflow: auto;
 }
 
 ol, ul {

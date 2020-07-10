@@ -1,0 +1,7 @@
+SSH iPhone
+
+CD Files
+dpkg -b [name of tweak folder]
+
+
+apt-ftparchive release . > Release

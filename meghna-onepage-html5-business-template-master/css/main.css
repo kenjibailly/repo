@@ -338,6 +338,10 @@ h1, h2, h3, h4, h5, h6 {
 	About us section
 ==================================================================*/
 
+#repo {
+    padding: 70px 0;
+}
+
 #about {
     padding: 70px 0;
 }
@@ -1215,6 +1219,13 @@ h1, h2, h3, h4, h5, h6 {
 .copyright > img {
     margin-bottom: 15px;
 }
+
+.copyright p,a{
+    margin-top: 15px;
+    font-size: 0.8em;
+    color: #666666;
+}
+
 
 #scrollUp {
     border: 1px solid #4e595f;

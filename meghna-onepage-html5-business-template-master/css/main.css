@@ -28,8 +28,8 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 
 @font-face {
     font-family: 'Oswald';
-    src: url('./css/Oswald-Regular.woff2') format('woff2'),
-        url('./css/Oswald-Regular.woff') format('woff');
+    src: url('./fonts/Oswald-Regular.woff2') format('woff2'),
+        url('./fonts/Oswald-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

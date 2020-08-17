@@ -637,6 +637,9 @@ h1, h2, h3, h4, h5, h6 {
 		    transform: rotateY(0deg) scale(1,1);
 }
 
+.og-details a {
+    margin-right: 5px;
+}
 
 /*=================================================================
 	Our skills

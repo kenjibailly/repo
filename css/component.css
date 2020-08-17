@@ -143,7 +143,6 @@
 }
 
 .og-details a::before {
-	content: '\2192';
     display: inline-block;
     float: right;
     margin-left: 10px;

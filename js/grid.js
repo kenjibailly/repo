@@ -342,10 +342,15 @@ var Grid = (function() {
 	Preview.prototype = {
 		create : function() {
 			// create Preview structure:
+			this.$app;
 			this.$title = $( '<h3></h3>' );
 			this.$description = $( '<p></p>' );
-			this.$href = $( '<a href="#">Install tweak AppTapp</a>' );
-			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
+			this.$href = $( '<a href="#">See more</a>' );
+			this.$cydia = $( '<a href="#" class="col-md-2 text-center">Cydia</a>' );
+			this.$zebra = $( '<a href="#" class="col-md-2 text-center">Zebra</a>' );
+			this.$sileo = $( '<a href="#" class="col-md-2 text-center">Sileo</a>' );
+			this.$apptapp = $( '<a href="#" class="col-md-2 text-center">AppTapp</a>' );
+			this.$details = $( '<div class="og-details row"></div>' ).append( this.$title, this.$description, this.$cydia, this.$zebra, this.$sileo, this.$apptapp );
 			this.$loading = $( '<div class="og-loading"></div>' );
 			this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
 			this.$closePreview = $( '<span class="og-close"></span>' );
@@ -379,14 +384,24 @@ var Grid = (function() {
 			// update preview´s content
 			var $itemEl = this.$item.children( 'a' ),
 				eldata = {
+					app : $itemEl.data( 'app' ),
 					href : $itemEl.attr( 'href' ),
 					largesrc : $itemEl.data( 'largesrc' ),
 					title : $itemEl.data( 'title' ),
+					cydia : $itemEl.data( 'cydia' ),
+					zebra : $itemEl.data( 'zebra' ),
+					sileo : $itemEl.data( 'sileo' ),
+					apptapp : $itemEl.data( 'apptapp' ),
 					description : $itemEl.data( 'description' )
 				};
-
+			
+			this.$app = eldata.app;
 			this.$title.html( eldata.title );
 			this.$description.html( eldata.description );
+			this.$cydia.attr( 'href', eldata.cydia );
+			this.$zebra.attr( 'href', eldata.zebra );
+			this.$sileo.attr( 'href', eldata.sileo );
+			this.$apptapp.attr( 'href', eldata.apptapp );
 			this.$href.attr( 'href', eldata.href );
 
 			var self = this;

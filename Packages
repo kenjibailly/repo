@@ -1,9 +1,100 @@
+Package: kenjibailly.babyyoda
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.babyyoda_iphoneos-arm_1.0.deb
+Size: 3490
+MD5sum: db1e0914ad8e95273d0b0086d68f0941
+SHA1: 1f74a37ba8a08d163597be57e4ad4b5656a0a571
+SHA256: d435e57b700f3dee21d21414f638b44e9df661969da7b485b55bbf6f7859b3b6
+SHA512: f7703243362ba585361eeed60306cdb1e5f03eb813cc5dddcf3d91bd8b92063ebfdfdaa2e4967beab944402ed92badc59897e200b8aa3b0a9438c0ba63a24bfe
+Homepage: https://kenjibailly.github.io/repo
+Description: This is a widget made for Xen HTML.
+Name: Baby Yoda
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
+Package: kenjibailly.lightsaber
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.lightsaber_iphoneos-arm_1.0.deb
+Size: 2818
+MD5sum: 684762ee4b59ae532d079908d8b4a0f4
+SHA1: 4108f0bd2996f5e608dadf4ef7127a5f960c40c5
+SHA256: 65c3511df9c32f15952ed95ca8c83cb36e12ff6a7e8bf647897d5ba1568da5ea
+SHA512: ee18028da226e82ffd7fe9472ce2bb0c36d73d51db23bdfff449fb89ef7b1f43588ddcae4b99025f3ee3804c7b64339275aa060224675edad5af18b84d83c36c
+Description: This is a widget made for XenHTML.
+Name: Light Saber
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
+Package: kenjibailly.stars
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.stars_iphoneos-arm_1.0.deb
+Size: 7726
+MD5sum: ab726109907cfe5c6d30b3d9b8270f95
+SHA1: 936df94d34a7730716d0bad0f666595df3dd899b
+SHA256: f5646792dd4ab52b958285ae838af4ccf1885ef0ed0d51d843f8414859127baf
+SHA512: 2c4345ccd4dbb54fb99c2b41928f12d2741a557d6f5b8fd95cb59f4c42e1f7d7becdbdf1f9adf3b6040311dadc9f20198f8de3f707265fdf1e6a7a52f21426d1
+Description: This is a widget made for XenHTML.
+Name: Stars
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
+Package: kenjibailly.starwars
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.starswars_iphoneos-arm_1.0.deb
+Size: 76574
+MD5sum: 8e034a32e7caa3792b4bdf9e920aaf88
+SHA1: bd4d1df3ac2684e7c0d1e39e18123606de485ac5
+SHA256: 318982babe4e0ad6737fe44fa5f87e380796cd2157dc80a0a3f47fbbf341a559
+SHA512: a4647a909a3ace19860c3016878b28b8dc2d91b5fb55ad42e6dc88d38255486170b4497b6a22be0b9f13ea8890f2ba39f8f87f8f16a2d2a66ef06eeabb204491
+Description: This is a widget made for XenHTML.
+Name: Star Wars
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
+Package: kenjibailly.techpartshomescreen
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.techpartshomescreen_iphoneos-arm_1.0.6.deb
+Size: 686
+MD5sum: dbe9b189c24aa3c93fc81c167f1ecf42
+SHA1: 8a83b310529874e24430559bf7cd1ff1c0ec1ac9
+SHA256: d8fcbc47401ffc60d6e1b06dde85a37c0695deecdc02d120c3da6e1be51d824a
+SHA512: a32f5c422713106a15e2c4a5907d043e725d02eb2707b1a237a53e901a8a2b9a3ace7d615e625e734b3b3a88124de6eff9025712b2813e14432e5195bc1e6db8
+Description: This is a widget made for XenHTML. This is a HomeScreen TechParts widget.
+Name: TechParts HomeScreen
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
+Package: kenjibailly.trippyclock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.trippyclock_iphoneos-arm_1.0.deb
+Size: 1020552
+MD5sum: 7ab598ed6bd3d70ee2a8396961dd7673
+SHA1: 2b590c1dd277b036abc66c3295671d1ce467f8d7
+SHA256: 18622fea4704810b6a54f76346982b87fd775ea3be5e8c306cffdbd2d5e1f1d2
+SHA512: d55716459c6db0946d753f86372bc7dbfa9a80838f835f340e79c07613b2251ba74b1c59150ff42d754c3881f3f8ceb884cbaf033b4bd98dbb72dee2dd29a5ef
+Description: This is a widget made for XenHTML.
+Name: Trippy Clock
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
 Package: com.github.kenjibailly.babyyoda
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.babyyoda_iphoneos-arm_1.0.deb
+Filename: debs/debsbackup/kenjibailly.babyyoda_iphoneos-arm_1.0.deb
 Size: 3496
 MD5sum: 7b7a8f8b33dbeb3943d429fefdfb1501
 SHA1: 0e9d96c7d1d84a3b83d9ea3ae525a3966552d01a
@@ -19,7 +110,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.lightsaber_iphoneos-arm_1.0.deb
+Filename: debs/debsbackup/kenjibailly.lightsaber_iphoneos-arm_1.0.deb
 Size: 2818
 MD5sum: 4b8bb7127dcc9e892cb3af70b3c5d924
 SHA1: d6095ad34344d1505827475bcb579bf42986f782
@@ -34,7 +125,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.stars_iphoneos-arm_1.0.deb
+Filename: debs/debsbackup/kenjibailly.stars_iphoneos-arm_1.0.deb
 Size: 8254
 MD5sum: 7fb448da3243e0916ff04abaede9355d
 SHA1: 1ca0b2005dc41b739827a32c332fb6f7581e1622
@@ -49,7 +140,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.starswars_iphoneos-arm_1.0.deb
+Filename: debs/debsbackup/kenjibailly.starswars_iphoneos-arm_1.0.deb
 Size: 77156
 MD5sum: 7ef9d2a55fad0b90edff2be1b422428d
 SHA1: 4b83a4cdc686e6ca3220b83179d5133c192f2c56
@@ -64,7 +155,7 @@ Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.techpartshomescreen_iphoneos-arm_1.0.6.deb
+Filename: debs/debsbackup/kenjibailly.techpartshomescreen_iphoneos-arm_1.0.6.deb
 Size: 690
 MD5sum: 92cf6836028f1057ca07668dd1ba1794
 SHA1: 4c03d226939c16c04da459b29ceddae1bef250a1
@@ -79,7 +170,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
-Filename: debs/com.github.kenjibailly.trippyclock_iphoneos-arm_1.0.deb
+Filename: debs/debsbackup/kenjibailly.trippyclock_iphoneos-arm_1.0.deb
 Size: 1020554
 MD5sum: ee1690c04e81319162c47c51ae74db64
 SHA1: 8d4c35647bdea9fd04b4669240a955a62d4a7c41

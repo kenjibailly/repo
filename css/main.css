@@ -903,7 +903,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 #testimonial {
-    background-image: url(../img/parallax/bicycle.jpg);
+    background-image: url(../img/parallax/city.jpg);
     padding: 70px 0;
 }
 
@@ -1105,6 +1105,12 @@ h1, h2, h3, h4, h5, h6 {
 .con-info i,
 .con-info span {
     float: left;
+    font-size: 13px;
+    color: white;
+}
+
+.con-info a span:hover {
+    color: #6f00ff;
 }
 
 .con-info span {

@@ -1,25 +1,33 @@
-Date: Mon, 17 Aug 2020 14:34:53 +0000
+Date: Mon, 17 Aug 2020 14:41:14 +0000
 MD5Sum:
  6060ed1ff2c1417b86f5a0b20dbbf7de             7765 Packages
- e135657a8e2598e433c7e052a8d5904c               38 Release
+ dc32c0f57a7c85e5b96c26f52ef141c3             2521 Packages.bz2
+ 25613f7876794f451cfee55558f38bba             2595 Packages.gz
+ 09190cf255eba8db1b3b4feb012aabd6               38 Release
  6060ed1ff2c1417b86f5a0b20dbbf7de             7765 backupstuff/Packages
  c6da434e2aa2120e0375faaa8f4e4150             1529 backupstuff/Packages.bz2
  797d69df8d0e696e3bb5a8b31be0263c             1469 backupstuff/Packages.gz
 SHA1:
  3029bea91c082ad01ceff82d3c5ac995f5524c99             7765 Packages
- 87716d668028789d226e8f245670d48df7773b8a               38 Release
+ 7f2a7b2dc4da30c7dd4ca8c9148e666c3156d445             2521 Packages.bz2
+ 229007309888b1d070f1abdb311b51b1b19a8627             2595 Packages.gz
+ fe99a1a036da87d1aeaebaa085dd20e79a104edf               38 Release
  3029bea91c082ad01ceff82d3c5ac995f5524c99             7765 backupstuff/Packages
  9c5d6bf39a2b5c7c40055d8dc6d34fc87ce586f2             1529 backupstuff/Packages.bz2
  c6320c5fd07d3015e01cd2aca67d50a348699279             1469 backupstuff/Packages.gz
 SHA256:
  a6ebb706a5f4ee2490b82fa31072cddcd8852ff08daecaf3767d83d6400a9f49             7765 Packages
- 57838ae6180a5797da55b9899bc24f9cc572a5377f249c6952defb547b603183               38 Release
+ 1da87238a2935c2fa3bffc7c5eed8892f1940c355e99f58cd31115f7a377f08d             2521 Packages.bz2
+ 010c1cca8c03f9c53437253dc10ffaa3841f04f5329559601d307480503fe031             2595 Packages.gz
+ 4a0d56b390b3cd66bf9daf3838eaabc5c4180b5303984fb13a53181e36eebef1               38 Release
  a6ebb706a5f4ee2490b82fa31072cddcd8852ff08daecaf3767d83d6400a9f49             7765 backupstuff/Packages
  eebc1233edc222ff709dbc68867cc2609ff60d1d2bd15eaba557a2602f12cae1             1529 backupstuff/Packages.bz2
  cdf70d047bc6e97d44ec6b73a017ad94cd2df1f5392cef07db6be3ef76521c0b             1469 backupstuff/Packages.gz
 SHA512:
  9ff47bc8c298472594539bc7151050889aceb19da932194b1531e100ed7708efb62b309a6d930d5b073d4ec227807619d8c1ba284525e239cf9d718b4111d636             7765 Packages
- 18cefa208904d1a377c6884a48fcefc01137f4ff99ae981ac3c93a1ea406e2fe26c07597190186e4050d956a7c776819c601649464acaa934d56b513e0a0f46f               38 Release
+ 51cf8bb57407c7d66f4ee6dcf6c417fdd022c48518265c6efa08c668f83ecc1f3936b44b467280eb656f1a84b71a603b3880a2dc93b41ea24f62afcf0dc38934             2521 Packages.bz2
+ 97a39bd7f70a6e928236fb328529516138f90236caf2afe9d2f0ae39a53eb4bc1ce85174eca8a796a6f3e334c4bca5e52ff7e25a2cb46a3c0722d8446bdcd178             2595 Packages.gz
+ 29905c5222b580a785092dfe1bdfa4c1e1c6fdfce2bbf65d12ab9f2c41fdb0a87305524156bef041b61cbf1e53844fa8f523e5b4cb5d2d321190b9763acad7be               38 Release
  9ff47bc8c298472594539bc7151050889aceb19da932194b1531e100ed7708efb62b309a6d930d5b073d4ec227807619d8c1ba284525e239cf9d718b4111d636             7765 backupstuff/Packages
  770b0c9db6a229a1b1a623dac1db1c7182343bb3514556e0485267b47cfb325b0910b397a944938617cbd2e27518fe8b59329423b4f953c5670c5566c08e1633             1529 backupstuff/Packages.bz2
  e009d4b83846e5deafd9631bfdb36f1c07f7ecb0a152f3dbea21302d6ccf648f1aeee40836945305dd619f03febb08c45bf12146066e630f01993d4c97cc02bb             1469 backupstuff/Packages.gz

@@ -1,9 +1,12 @@
 SSH iPhone
 
-CD Files
+CD /private/var/mobile/Documents/repo/debs/Files
 dpkg -b [name of tweak folder]
 
+rename debs
+move debs to /private/var/mobile/Documents/repo/debs/debs
 
+CD /private/var/mobile/Documents/repo
 apt-ftparchive release . > Release
 
 apt-ftparchive packages debs > Packages

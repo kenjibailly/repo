@@ -1,0 +1,13 @@
+{
+    "packageID":"kenjibailly.arsenalclock"
+    , "name":"Arsenal Clock"
+    , "developer":"Kenji Bailly"2
+    , "developerSite":"https://kenjibailly.github.io/repo"
+    , "description":[
+          "This is a widget made for Xen HTML."
+    ]
+    , "changelog":[
+          "1.0", "Initial release"
+    ]
+    , "screenshotCount":0
+}

@@ -1,3 +1,19 @@
+Package: kenjibailly.arsenalclock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.arsenalclock_iphoneos-arm_1.0.deb
+Size: 344462
+MD5sum: 04a8f16dac1ef4c52883b3bbb6fd9eef
+SHA1: 062b8322f7e29561f4db1d671281d457e1775b3e
+SHA256: 432eadcfb71982292b1c1cec36c362c1e76d2d982f25d0c4660a08f4fddb5b2e
+SHA512: c620f9918bcdfdc6e59ab9e5925056efd66150ab2f1ce4175a071a145bfe82656f119cc03e66649d86f5f2275a7334879dddaa54f51a9d79ad750f029041dc53
+Homepage: https://kenjibailly.github.io/repo
+Description: This is a widget made for Xen HTML.
+Name: Arsenal Clock
+Author: Kenji Bailly <kenjibailly@gmail.com>
+
 Package: kenjibailly.babyyoda
 Architecture: iphoneos-arm
 Version: 1.0

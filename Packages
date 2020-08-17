@@ -65,11 +65,11 @@ Version: 1.0.6
 Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.techpartshomescreen_iphoneos-arm_1.0.6.deb
-Size: 7968
-MD5sum: 02e038f244896b94fb806b6d9c7ea865
-SHA1: d29b19c34b8157ff4611cd3d5db37eeee79bd7e9
-SHA256: b33ba1ff518333e3423a7fdb596e02034e7624db08a4abc4c77d21a325809a86
-SHA512: dc0f400e82e7b2948dda9af0d64e618bf7413cd01f1419fceba5dc2b36b834e43255117baa87d1977272e1fe5fc5d926adb1d2d73d30bb2b1b8b0fe2815c852e
+Size: 7954
+MD5sum: 63d91412a9339bf4e3fdbec4ac97393e
+SHA1: 23ba79efc049952c24acbd9ac98cd74f18eaf383
+SHA256: 44f66aa5503434dd7355785f6ed02b39319c6cf3c0f6adceed0dc1d366afc7f5
+SHA512: e5277a9862fac9be38fcca16ec475a2360394a02cb4a5975800febdcf24a021d15c1d039e7f76563abdce27edaa22cdf12242cae8db28170a2644087e0817b89
 Description: This is a widget made for XenHTML. This is a HomeScreen TechParts widget.
 Name: TechParts HomeScreen
 Author: Kenji Bailly <kenjibailly@gmail.com>

@@ -1,11 +1,3 @@
-Origin: Kenji Bailly's Repo
-Label: Kenji Bailly's Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Kenji Bailly's Repo
 Date: Mon, 17 Aug 2020 14:55:03 +0000
 MD5Sum:
  a02965ed3b3c5e4956a479921bafcacc               38 Release
@@ -31,3 +23,4 @@ SHA512:
  770b0c9db6a229a1b1a623dac1db1c7182343bb3514556e0485267b47cfb325b0910b397a944938617cbd2e27518fe8b59329423b4f953c5670c5566c08e1633             1529 backupstuff/Packages.bz2
  e009d4b83846e5deafd9631bfdb36f1c07f7ecb0a152f3dbea21302d6ccf648f1aeee40836945305dd619f03febb08c45bf12146066e630f01993d4c97cc02bb             1469 backupstuff/Packages.gz
  5fe7499604d447a9bfb7f9b3aa97e2344e88a1f34f467a089868115a4c9d6f880b65f3d729ebb222aadd3ab9e55b694f9d3286a55ee52e80fa055429fb088b47              440 debs/Files/Release
+Description: Kenji Bailly's Repo

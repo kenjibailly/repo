@@ -1,25 +1,9 @@
-Date: Mon, 17 Aug 2020 14:55:03 +0000
+Date: Mon, 17 Aug 2020 15:53:34 +0000
 MD5Sum:
- a02965ed3b3c5e4956a479921bafcacc               38 Release
- 6060ed1ff2c1417b86f5a0b20dbbf7de             7765 backupstuff/Packages
- c6da434e2aa2120e0375faaa8f4e4150             1529 backupstuff/Packages.bz2
- 797d69df8d0e696e3bb5a8b31be0263c             1469 backupstuff/Packages.gz
- ada9cfc6ca0372782fded474a808a27c              440 debs/Files/Release
+ 2a51921bee251a222cb2caacfae2c88c               38 Release
 SHA1:
- a42dbdbad6db8c54a86124196910eb6009c92e72               38 Release
- 3029bea91c082ad01ceff82d3c5ac995f5524c99             7765 backupstuff/Packages
- 9c5d6bf39a2b5c7c40055d8dc6d34fc87ce586f2             1529 backupstuff/Packages.bz2
- c6320c5fd07d3015e01cd2aca67d50a348699279             1469 backupstuff/Packages.gz
- 6b9faf63b7a1ee8473a7272b522e9da568912721              440 debs/Files/Release
+ a9916688ac29acda1469b8f12da412d42704d9f5               38 Release
 SHA256:
- 10e2b45aede87d45e78545419afc05071fa36e0fe66f516a0d5d91f0b661b0ad               38 Release
- a6ebb706a5f4ee2490b82fa31072cddcd8852ff08daecaf3767d83d6400a9f49             7765 backupstuff/Packages
- eebc1233edc222ff709dbc68867cc2609ff60d1d2bd15eaba557a2602f12cae1             1529 backupstuff/Packages.bz2
- cdf70d047bc6e97d44ec6b73a017ad94cd2df1f5392cef07db6be3ef76521c0b             1469 backupstuff/Packages.gz
- 1a36e1b0749b5829b59a8f2894a28091c076d1d728d48b30d167c7422a4cc86a              440 debs/Files/Release
+ 64bc981c68e77b350b2c6a0cadcfd6a27c286d760dc57455da970376df0275d0               38 Release
 SHA512:
- 6337aa1ee38139aace38b46647adaaa62ba47d8b1cd77503fbfefb43398e01a60bc74c9bff855f4f2bd63db5447972c05d8f73048e453b90e7fafe6aeb378e33               38 Release
- 9ff47bc8c298472594539bc7151050889aceb19da932194b1531e100ed7708efb62b309a6d930d5b073d4ec227807619d8c1ba284525e239cf9d718b4111d636             7765 backupstuff/Packages
- 770b0c9db6a229a1b1a623dac1db1c7182343bb3514556e0485267b47cfb325b0910b397a944938617cbd2e27518fe8b59329423b4f953c5670c5566c08e1633             1529 backupstuff/Packages.bz2
- e009d4b83846e5deafd9631bfdb36f1c07f7ecb0a152f3dbea21302d6ccf648f1aeee40836945305dd619f03febb08c45bf12146066e630f01993d4c97cc02bb             1469 backupstuff/Packages.gz
- 5fe7499604d447a9bfb7f9b3aa97e2344e88a1f34f467a089868115a4c9d6f880b65f3d729ebb222aadd3ab9e55b694f9d3286a55ee52e80fa055429fb088b47              440 debs/Files/Release
+ 9a2a558bbbbe37aa5b1f0f26b9d9ecdf49ce40cd55ccb0be178a42dc1b186d4677c2ef58b7789c8fcf48ca7645c9b5e9cc77551867ed6fe91288bdfbadefc1b3               38 Release

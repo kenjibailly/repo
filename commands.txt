@@ -22,4 +22,4 @@ Architectures: iphoneos-arm
 Components: main
 Description: Kenji Bailly's Repo
 
-move all files except release file to github
+move deb, packages files except release file to github

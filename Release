@@ -1,4 +1,11 @@
-Description: Kenji Bailly's repo
+Origin: Kenji Bailly's Repo
+Label: Kenji Bailly's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kenji Bailly's Repo
 Date: Mon, 17 Aug 2020 14:55:03 +0000
 MD5Sum:
  a02965ed3b3c5e4956a479921bafcacc               38 Release

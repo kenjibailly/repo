@@ -105,3 +105,18 @@ Description: This is a widget made for XenHTML.
 Name: Trippy Clock
 Author: Kenji Bailly <kenjibailly@gmail.com>
 
+Package: kenjibailly.trippyclock
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>
+Filename: debs/debs/kenjibailly.trippyclock_iphoneos-arm_1.1.deb
+Size: 1020572
+MD5sum: f7c36620f5909feaa1f7319b9e7c8791
+SHA1: ef3cba365222c33d651774cad4c397da069682ff
+SHA256: aac86fec42a80b2cdd183547d2f51578a055c9e4647a0d21fb38c06da9966565
+SHA512: 318ed9750254c88a48278a6f972651807818f2a6c008bd482155e0ccf180646e551449ca28484d4523348ef4693bee73181eb37878494bbc5a1ff138930b901b
+Description: This is a widget made for XenHTML.
+Name: Trippy Clock
+Author: Kenji Bailly <kenjibailly@gmail.com>
+

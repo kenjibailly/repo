@@ -1,5 +1,5 @@
 {
-    "packageID":"com.github.kenjibailly.lightsaber"
+    "packageID":"kenjibailly.lightsaber"
     , "name":"Light Saber"
     , "developer":"Kenji Bailly"2
     , "developerSite":"https://kenjibailly.github.io/repo"

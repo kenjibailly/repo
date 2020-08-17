@@ -1,5 +1,5 @@
 {
-    "packageID":"com.github.kenjibailly.stars"
+    "packageID":"kenjibailly.stars"
     , "name":"Stars"
     , "developer":"Kenji Bailly"2
     , "developerSite":"https://kenjibailly.github.io/repo"

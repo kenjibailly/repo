@@ -1,5 +1,5 @@
 {
-    "packageID":"com.github.kenjibailly.trippyclock"
+    "packageID":"kenjibailly.trippyclock"
     , "name":"Trippy Clock"
     , "developer":"Kenji Bailly"2
     , "developerSite":"https://kenjibailly.github.io/repo"

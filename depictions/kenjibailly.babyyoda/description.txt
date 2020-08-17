@@ -1,5 +1,5 @@
 {
-    "packageID":"com.github.kenjibailly.babyyoda"
+    "packageID":"kenjibailly.babyyoda"
     , "name":"Baby Yoda"
     , "developer":"Kenji Bailly"2
     , "developerSite":"https://kenjibailly.github.io/repo"

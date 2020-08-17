@@ -5,10 +5,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.babyyoda_iphoneos-arm_1.0.deb
 Size: 3490
-MD5sum: db1e0914ad8e95273d0b0086d68f0941
-SHA1: 1f74a37ba8a08d163597be57e4ad4b5656a0a571
-SHA256: d435e57b700f3dee21d21414f638b44e9df661969da7b485b55bbf6f7859b3b6
-SHA512: f7703243362ba585361eeed60306cdb1e5f03eb813cc5dddcf3d91bd8b92063ebfdfdaa2e4967beab944402ed92badc59897e200b8aa3b0a9438c0ba63a24bfe
+MD5sum: baa19c8f31b6bc58f4763b3bea752ac3
+SHA1: 49f349a611a45e50ec02fcdb4ba0dc56c4127dad
+SHA256: 3a895445b1cf45cdef2870621b41f522349f2e488ab367ba55ab7042760e39e2
+SHA512: 8c1d9ae4ffd436a9df268a47bae83f01c47df26cf3946d6c024ce3644120a06cba8c27ed6271c626bedd405577cc171671b4121abbb5150e7804074583dd2dc0
 Homepage: https://kenjibailly.github.io/repo
 Description: This is a widget made for Xen HTML.
 Name: Baby Yoda
@@ -21,10 +21,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.lightsaber_iphoneos-arm_1.0.deb
 Size: 2818
-MD5sum: 684762ee4b59ae532d079908d8b4a0f4
-SHA1: 4108f0bd2996f5e608dadf4ef7127a5f960c40c5
-SHA256: 65c3511df9c32f15952ed95ca8c83cb36e12ff6a7e8bf647897d5ba1568da5ea
-SHA512: ee18028da226e82ffd7fe9472ce2bb0c36d73d51db23bdfff449fb89ef7b1f43588ddcae4b99025f3ee3804c7b64339275aa060224675edad5af18b84d83c36c
+MD5sum: 554053dbeda8b05a9605f04fadef3f1f
+SHA1: 745ebe6240fab3d72f1467227cb5747868efb41d
+SHA256: 3fb8ac6810b42ffe2bceb34ac09b4c72caa1860de9ed22d10a11cca8a79f4ada
+SHA512: 1248c54e83d9584a06ed3d8466b75b114fcc6240fcc529ad142e776f34e5812649680971bf396d04fb7c04df27ac7af2f3693f77c8f387b40d28dc406882e94d
 Description: This is a widget made for XenHTML.
 Name: Light Saber
 Author: Kenji Bailly <kenjibailly@gmail.com>
@@ -36,10 +36,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.stars_iphoneos-arm_1.0.deb
 Size: 7726
-MD5sum: ab726109907cfe5c6d30b3d9b8270f95
-SHA1: 936df94d34a7730716d0bad0f666595df3dd899b
-SHA256: f5646792dd4ab52b958285ae838af4ccf1885ef0ed0d51d843f8414859127baf
-SHA512: 2c4345ccd4dbb54fb99c2b41928f12d2741a557d6f5b8fd95cb59f4c42e1f7d7becdbdf1f9adf3b6040311dadc9f20198f8de3f707265fdf1e6a7a52f21426d1
+MD5sum: b529fe9d7c64b402a14b6e3e2df00716
+SHA1: 3013a2928261078589378e2354ab4170929d3693
+SHA256: 14f3e549e0dd826a329770164ef48692b83b60a3c410e110421a37f4adb4b2af
+SHA512: 4b1c67289fd87e2abc8093284a9ac3a8d4de70e0298455d1c576a89d61983c7faf91820a44d0ae9aabae682aaee3c5e31ba05f750c021e89c92c7376d162e3ad
 Description: This is a widget made for XenHTML.
 Name: Stars
 Author: Kenji Bailly <kenjibailly@gmail.com>
@@ -51,10 +51,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.starswars_iphoneos-arm_1.0.deb
 Size: 76574
-MD5sum: 8e034a32e7caa3792b4bdf9e920aaf88
-SHA1: bd4d1df3ac2684e7c0d1e39e18123606de485ac5
-SHA256: 318982babe4e0ad6737fe44fa5f87e380796cd2157dc80a0a3f47fbbf341a559
-SHA512: a4647a909a3ace19860c3016878b28b8dc2d91b5fb55ad42e6dc88d38255486170b4497b6a22be0b9f13ea8890f2ba39f8f87f8f16a2d2a66ef06eeabb204491
+MD5sum: 1cb8ecb57b81c9c06262727355f93525
+SHA1: 60019cf72940de961ad41f0c7285a8d4676c8658
+SHA256: 11dc4809c95f0b004f24c1b173c327d704cf42ec1692b3f42ca7b33c93207f93
+SHA512: 8f13ec829ccfff975aaeb5ae36975459709f719dcaa3ff0ba0a0080938de3356b8ea6383223a80f5a3bcbf5379345d6258895e2fa6f49d2cb920582ccae28533
 Description: This is a widget made for XenHTML.
 Name: Star Wars
 Author: Kenji Bailly <kenjibailly@gmail.com>
@@ -66,10 +66,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.techpartshomescreen_iphoneos-arm_1.0.6.deb
 Size: 686
-MD5sum: dbe9b189c24aa3c93fc81c167f1ecf42
-SHA1: 8a83b310529874e24430559bf7cd1ff1c0ec1ac9
-SHA256: d8fcbc47401ffc60d6e1b06dde85a37c0695deecdc02d120c3da6e1be51d824a
-SHA512: a32f5c422713106a15e2c4a5907d043e725d02eb2707b1a237a53e901a8a2b9a3ace7d615e625e734b3b3a88124de6eff9025712b2813e14432e5195bc1e6db8
+MD5sum: c81b0370e2fbf922d90d8281ceb020b4
+SHA1: 43a5934b2a588ad3d780c8f00ce06729942e6e77
+SHA256: c387fa00c41fdd852584d351a520d8c485bb08e9d281b95cdaf1bc29184cf606
+SHA512: 935ec9ce1be6d7a0e7679a4c3c027d4a5b0e13ff0e3d46effe03836955f6a286b1cbc6041afd965f24e973ea7c533cee08cb12168cc7f8371eaf18ce206b693a
 Description: This is a widget made for XenHTML. This is a HomeScreen TechParts widget.
 Name: TechParts HomeScreen
 Author: Kenji Bailly <kenjibailly@gmail.com>
@@ -81,10 +81,10 @@ Section: Widgets
 Maintainer: Kenji Bailly <kenjibailly@gmail.com>
 Filename: debs/debs/kenjibailly.trippyclock_iphoneos-arm_1.0.deb
 Size: 1020552
-MD5sum: 7ab598ed6bd3d70ee2a8396961dd7673
-SHA1: 2b590c1dd277b036abc66c3295671d1ce467f8d7
-SHA256: 18622fea4704810b6a54f76346982b87fd775ea3be5e8c306cffdbd2d5e1f1d2
-SHA512: d55716459c6db0946d753f86372bc7dbfa9a80838f835f340e79c07613b2251ba74b1c59150ff42d754c3881f3f8ceb884cbaf033b4bd98dbb72dee2dd29a5ef
+MD5sum: 850aaac406435b5063cd493064173b91
+SHA1: aff783a82294b69156550fe8f2d591dbf6c1ec8f
+SHA256: d6330767d94b421823af1382708511db9a7207eee7d9c7453e92693cdf8c01c4
+SHA512: 5f288fa76a273a35d97f8193b0ee618b332484b0ded2454bffafdbd041ef9a74ea11fec65d9fcff7a8aeabd13fc1c64f7c0ce27337b271e7ae1f16382ab36b3f
 Description: This is a widget made for XenHTML.
 Name: Trippy Clock
 Author: Kenji Bailly <kenjibailly@gmail.com>

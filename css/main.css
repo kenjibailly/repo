@@ -344,6 +344,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #about {
     padding: 70px 0;
+    background-image: url(../img/parallax/twitter.jpg);
 }
 
 .icon-box {
@@ -896,7 +897,18 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 20px 0;
 }
 
+/*=================================================================
+	Donate section
+==================================================================*/
 
+#donate {
+    background-image: url(../img/parallax/city.jpg);
+    padding: 70px 0;
+}
+
+#donates .owl-wrapper-outer {
+    top: -25px;
+  }
 
 /*=================================================================
 	Testimonial section

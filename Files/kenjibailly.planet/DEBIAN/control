@@ -1,0 +1,8 @@
+Package: kenjibailly.solarsystem
+Name: Solar System
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a widget made for XenHTML.
+Author: Kenji Bailly <kenjibailly@gmail.com>
+Section: Widgets
+Maintainer: Kenji Bailly <kenjibailly@gmail.com>

@@ -236,8 +236,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .bg-one {
     /* background-color: #050505; */
-    background: rgb(5,2,33);
-    background: linear-gradient(90deg, rgba(5,2,33,1) 0%, rgba(38,6,119,1) 50%, rgba(99,17,48,1) 100%); 
+    background: rgb(59,0,113);
+    background: linear-gradient(38deg, rgba(59,0,113,1) 0%, rgba(0,215,255,1) 100%); 
 }
 
 .bg-one h3 {

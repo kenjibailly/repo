@@ -37,7 +37,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 
 
 body {
-    background-color: #050505;
+    background-color: #1b1b1b;
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
@@ -157,7 +157,9 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #loading-mask {
-    background: #050505;
+    /* background: #050505; */
+    background: rgb(5,2,33);
+    background: linear-gradient(90deg, rgba(5,2,33,1) 0%, rgba(38,6,119,1) 50%, rgba(99,17,48,1) 100%); 
     height: 100%;
     left: 0;
     opacity: 1;
@@ -212,6 +214,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #6f00ff;
 }
 
+.orangepink {
+    color: #ff3370;
+}
+
 .sub-title {
     padding: 0 0 50px;
 }
@@ -229,7 +235,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-one {
-    background-color: #050505;
+    /* background-color: #050505; */
+    background: rgb(5,2,33);
+    background: linear-gradient(90deg, rgba(5,2,33,1) 0%, rgba(38,6,119,1) 50%, rgba(99,17,48,1) 100%); 
+}
+
+.bg-one h3 {
+    color: white;
+}
+
+.bg-one .btn {
+    background-color: #26292e;
 }
 
 .parallax-section {
@@ -293,13 +309,17 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 .navbar-inverse {
-	background-color: #0c0c0c;;
-	width: 100%;
+	background-color: #1b1b1b;
+    /* background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%); */
+    width: 100%;
 	z-index: 99;
 }
 
 .navbar {
-  border-bottom: 1px solid #6f00ff;
+  border-bottom: 3px solid #ff3370;
+  -webkit-background-clip: padding-box; /* for Safari */
+  background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
+  /* border-bottom: 1px solid #6f00ff; */
   margin-bottom: 0;
 }
 
@@ -315,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 0px;
     padding: 20px 15px;
 
 	-webkit-transition: background .5s ease-in-out 0s;
@@ -326,7 +346,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-inverse .navbar-nav > li.current > a {
     color: #6f00ff;
-    background-color: #2f3238;
+    border-right: 3px solid #ff006f;
+    border-top: 3px solid #ff006f;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
@@ -344,7 +365,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #about {
     padding: 70px 0;
-    background-image: url(../img/parallax/twitter.jpg);
+    background-image: url(../img/parallax/cityriver.jpg);
 }
 
 .icon-box {
@@ -648,7 +669,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #team-skills {
     padding: 70px 0;
-    background-image: url(../img/parallax/skills.jpg);
+    background-image: url(../img/parallax/cityriver.jpg);
 }
 
 .skill-chart > h3 {
@@ -902,7 +923,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 #donate {
-    background-image: url(../img/parallax/city.jpg);
+    background-image: url(../img/parallax/cityriver.jpg);
     padding: 70px 0;
 }
 
@@ -915,7 +936,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 #testimonial {
-    background-image: url(../img/parallax/city.jpg);
+    background-image: url(../img/parallax/cityriver.jpg);
     padding: 70px 0;
 }
 
@@ -1244,12 +1265,12 @@ h1, h2, h3, h4, h5, h6 {
 .copyright p,a{
     margin-top: 15px;
     font-size: 0.8em;
-    color: #666666;
+    color: #4b4b4b;
 }
 
 
 #scrollUp {
-    border: 1px solid #4e595f;
+    border: 1px solid #ff3370;
     bottom: 15px;
     color: #fff;
     display: none;

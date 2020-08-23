@@ -37,7 +37,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 
 
 body {
-    background-color: #2B2C30;
+    background-color: #050505;
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #loading-mask {
-    background: #333439;
+    background: #050505;
     height: 100%;
     left: 0;
     opacity: 1;
@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-one {
-    background-color: #333439;
+    background-color: #050505;
 }
 
 .parallax-section {
@@ -293,13 +293,13 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 .navbar-inverse {
-	background-color: #2B2C30;
+	background-color: #0c0c0c;;
 	width: 100%;
 	z-index: 99;
 }
 
 .navbar {
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid #6f00ff;
   margin-bottom: 0;
 }
 
@@ -851,11 +851,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .pricing {
-	background-color: #2b2c30;
+	background-color: #050505;
 }
 
 .price-title {
-  background-color: #2b2c30;
+  background-color: #050505;
   padding: 30px 0 20px;
 }
 

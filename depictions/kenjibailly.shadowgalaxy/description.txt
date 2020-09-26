@@ -1,0 +1,13 @@
+{
+    "packageID":"kenjibailly.shadowgalaxy"
+    , "name":"Shadow Galaxy"
+    , "developer":"Kenji Bailly"
+    , "developerSite":"https://kenjibailly.xyz/repo"
+    , "description":[
+          "This is a widget made for Xen HTML."
+    ]
+    , "changelog":[
+          "1.0", "Initial release"
+    ]
+    , "screenshotCount":0
+}

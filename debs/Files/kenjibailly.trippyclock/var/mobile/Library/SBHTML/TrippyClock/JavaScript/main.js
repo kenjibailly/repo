@@ -14,9 +14,6 @@ $(document).ready(function() {
         else if ( size == 75 ){
           widget.css('-webkit-transform','scale(0.33)');
         }
-        else if ( size == 50 ){
-          widget.css('-webkit-transform','scale(0.25)');
-        }
         else {
           widget.css('-webkit-transform','scale(0.44)');
         }

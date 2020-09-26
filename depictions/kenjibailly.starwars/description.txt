@@ -1,8 +1,8 @@
 {
     "packageID":"kenjibailly.starwars"
     , "name":"Star Wars"
-    , "developer":"Kenji Bailly"2
-    , "developerSite":"https://kenjibailly.github.io/repo"
+    , "developer":"Kenji Bailly"
+    , "developerSite":"https://kenjibailly.xyz/repo"
     , "description":[
           "This is a widget made for Xen HTML."
     ]

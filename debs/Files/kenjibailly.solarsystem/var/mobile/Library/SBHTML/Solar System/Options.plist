@@ -16,8 +16,10 @@
     <dict>
      	<key>Big</key>
 		<integer>6</integer>
+		<key>Medium</key>
+		<integer>4</integer>
 		<key>Small</key>
-		<integer>3</integer>
+		<integer>2</integer>
     </dict>
 </dict>
 </array>

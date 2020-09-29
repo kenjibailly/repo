@@ -1,9 +1,0 @@
-Package: kenjibailly.techpartshomescreen
-Name: TechParts HomeScreen
-Version: 1.0.6
-Architecture: iphoneos-arm
-Description: This is a widget made for XenHTML. This is a HomeScreen TechParts widget.
-Homepage: https://kenjibailly.xyz/repo
-Author: Kenji Bailly <hello@kenjibailly.xyz>
-Section: Widgets
-Maintainer: Kenji Bailly <hello@kenjibailly.xyz>

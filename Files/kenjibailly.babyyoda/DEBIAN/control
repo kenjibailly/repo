@@ -1,9 +1,0 @@
-Package: kenjibailly.babyyoda
-Name: Baby Yoda
-Version: 1.0
-Architecture: iphoneos-arm
-Description: This is a widget made for Xen HTML.
-Homepage: https://kenjibailly.xyz/repo
-Author: Kenji Bailly <hello@kenjibailly.xyz>
-Section: Widgets
-Maintainer: Kenji Bailly <hello@kenjibailly.xyz>

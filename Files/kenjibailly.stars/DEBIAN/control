@@ -1,9 +1,0 @@
-Package: kenjibailly.stars
-Name: Stars
-Version: 1.0
-Architecture: iphoneos-arm
-Description: This is a widget made for XenHTML.
-Homepage: https://kenjibailly.xyz/repo
-Author: Kenji Bailly <hello@kenjibailly.xyz>
-Section: Widgets
-Maintainer: Kenji Bailly <hello@kenjibailly.xyz>
